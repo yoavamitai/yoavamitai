@@ -1,5 +1,5 @@
 <picture>
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Yoav%20Amitai&fontSize=90" />
+  <img src="https://github.com/yoavamitai/yoavamitai/blob/main/header.png" />
   </picture>
   
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)

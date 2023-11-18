@@ -10,10 +10,6 @@
 </tr>
 </table>
 <div align="left">
-<p float='left'>
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f604/512.gif" alt="😄" width="32" height="32">
-  My name is Yoav Amitai
- </p>
 <p float="left">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="32" height="32"/>
   I’m currently learning Rust, Dart

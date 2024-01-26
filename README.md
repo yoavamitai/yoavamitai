@@ -19,11 +19,6 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ab/512.gif" alt="💫" width="32" height="32">
   Reach me at contact.yoavmitai@gmail.com
   </p>
- 
-<p float="left">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif" alt="❤" width="32" height="32">
-  I love Films, TV, Music, Design, Physics
-</p>
 </div>
 
 ## <b>My Skills</b>

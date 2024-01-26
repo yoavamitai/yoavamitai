@@ -23,7 +23,7 @@
 
 ## <b>My Skills</b>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,python,js,html,css,mysql,flutter,dart,unreal)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,python,js,ts,react,html,css,mysql,flutter,dart,unreal)](https://skillicons.dev)
 
 ## <b>Tools I Use</b>
 [![My Skills](https://skillicons.dev/icons?i=ae,ps,pr,androidstudio,blender,figma,supabase,git,github,vscode)](https://skillicons.dev)
